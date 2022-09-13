@@ -1,0 +1,24 @@
+.search{
+    color: teal;
+    font-weight: bold;
+    border:3px solid teal;
+    border-radius: 12px;
+    width: 150px;
+    padding: 5px;
+}
+
+.plus{
+    background-color: teal;
+    color: white;
+    font-size: x-large;
+    border-radius: 50%;
+}
+
+.account{
+    background-color: blue;
+    color: white;
+    font-size: x-large;
+    box-shadow: 10px 5px 5px black;
+    width: 250px;
+    padding: 5px;
+}
