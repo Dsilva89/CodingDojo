@@ -1,0 +1,36 @@
+img{
+    height: 200px;
+}
+
+h1{
+    color: teal;
+    background-color: black;
+    font-family: cursive;
+    font-size: 48pt;
+    text-align: center;
+    margin: 20px;
+}
+
+.games{
+    background-color: rebeccapurple;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.movies{
+    background-color: gold;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.holidays{
+    background-color: seagreen;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}

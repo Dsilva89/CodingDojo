@@ -1,0 +1,40 @@
+.block1{
+    background-color: skyblue;
+    height: 50px;
+    width: 50px;
+    margin-right: 25px;
+}
+.block2{
+    background-color: skyblue;
+    height: 50px;
+    width: 50px;
+}
+.line1{
+    background-color: skyblue;
+    height: 25px;
+    width: 350px;
+}
+.line2{
+    background-color: white;
+    height: 25px;
+    width: 350px;
+}
+.line3{
+    background-color: skyblue;
+    height: 25px;
+    width: 350px;
+    margin-left: 125px;
+}
+.line4{
+    background-color: white;
+    height: 25px;
+    width: 475px;
+}
+.line5{
+    background-color: skyblue;
+    height: 25px;
+    width: 475px;
+}
+.container1{
+    display: flex;
+}
